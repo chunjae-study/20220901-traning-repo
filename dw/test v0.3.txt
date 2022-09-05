@@ -2,3 +2,4 @@
 Hello
 
 merge할 줄 모르는 대우
+merge할 줄 아는 대우
